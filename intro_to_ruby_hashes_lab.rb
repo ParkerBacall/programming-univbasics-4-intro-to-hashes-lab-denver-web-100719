@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = dood: "sup"
+  my_hash = [dood: "sup"]
 end
 
 def pioneer
